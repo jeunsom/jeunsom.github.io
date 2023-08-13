@@ -38,11 +38,11 @@ Publications (selected)
 * Robust Time Series Recovery and Classification Using Test-Time Noise Simulator Networks, ICASSP, 2023 June (Rhodes, Greece)
    <br> **Eun Som Jeon**, Suhas Lohit, Rushil Anirudh, and Pavan Turaga
 * Understanding the Role of Mixup in Knowledge Distillation: An Empirical Study, WACV, 2023, Jan (Hwaii, USA)
-    Hongjun Choi, **Eun Som Jeon**, Ankita Shukla, and Pavan Turaga 
+   <br> Hongjun Choi, **Eun Som Jeon**, Ankita Shukla, and Pavan Turaga 
 * Leveraging Angular Distributions for Improved Knowledge Distillation, Neurocomputing, 2023
-    **Eun Som Jeon**, Hongjun Choi, Ankita Shukla, and Pavan Turaga
+   <br> **Eun Som Jeon**, Hongjun Choi, Ankita Shukla, and Pavan Turaga
 * Role of data augmentation strategies in knowledge distillation for wearable sensor data, IEEE Internet of Things Journal, 2021
-    **Eun Som Jeon**, Anirudh Som, Ankita Shukla, Kristina Hasanaj, Matthew P. Buman, and Pavan Turaga
+   <br> **Eun Som Jeon**, Anirudh Som, Ankita Shukla, Kristina Hasanaj, Matthew P. Buman, and Pavan Turaga
 
 For more info
 ------
