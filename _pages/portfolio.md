@@ -8,8 +8,7 @@ author_profile: true
 {% include base_path %}
 
 
-SCI(E) Journal
-------
+
 * Apparatus, Method and Computer Program for Determining whether Safety Equipment is worn (Patent Application No.: KR 1020190082694)
   <br> Eun Som Jeon, Il Hyeon Mun, and Jae Hyup Jeong
 *	Method for Detecting Object and System Therefor (Patent Registration No.: KR 1025223990000 B1)
