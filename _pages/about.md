@@ -35,8 +35,8 @@ Professional Experience
 
 Publications (selected)
 ------
-* Robust Time Series Recovery and Classification Using Test-Time Noise Simulator Networks, ICASSP, 2023 June (Rhodes, Greece) \\
-    **Eun Som Jeon**, Suhas Lohit, Rushil Anirudh, and Pavan Turaga
+* Robust Time Series Recovery and Classification Using Test-Time Noise Simulator Networks, ICASSP, 2023 June (Rhodes, Greece)
+   <br> **Eun Som Jeon**, Suhas Lohit, Rushil Anirudh, and Pavan Turaga
 * Understanding the Role of Mixup in Knowledge Distillation: An Empirical Study, WACV, 2023, Jan (Hwaii, USA)
     Hongjun Choi, **Eun Som Jeon**, Ankita Shukla, and Pavan Turaga 
 * Leveraging Angular Distributions for Improved Knowledge Distillation, Neurocomputing, 2023
