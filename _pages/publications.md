@@ -34,7 +34,7 @@ Conference
 * Intra-class Patch Swap for Self-Distillation (in submission)
   <br> Hongjun Choi, **Eun Som Jeon**, Ankita Shukla, Pavan Turaga
 * Robust Time Series Recovery and Classification Using Test-Time Noise Simulator Networks, ICASSP, 2023 June (Rhodes, Greece) [[code](https://github.com/jeunsom/RobustTS)] [[pdf](https://ieeexplore.ieee.org/document/10096888)]
-   <br> **Eun Som Jeon**, Suhas Lohit, Rushil Anirudh, and Pavan Turaga
+   <br> **Eun Som Jeon**, Suhas Lohit, Rushil Anirudh, Pavan Turaga
 * Understanding the Role of Mixup in Knowledge Distillation: An Empirical Study, WACV, 2023 Jan (Hwaii, USA) [[code](https://github.com/hchoi71/MIX-KD)] [[pdf](https://arxiv.org/pdf/2211.03946.pdf)]
    <br> Hongjun Choi, **Eun Som Jeon**, Ankita Shukla, Pavan Turaga 
 * Topological Knowledge Distillation for Wearable Sensor Data, Asilomar Conference, 2022 Oct [[code](https://github.com/jeunsom/TDA_KD)] [[pdf](https://ieeexplore.ieee.org/document/10052019)]
