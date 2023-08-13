@@ -19,11 +19,11 @@ SCI(E) Journal
    <br> **Eun Som Jeon**, Hongjun Choi, Ankita Shukla, Pavan Turaga
 * Role of data augmentation strategies in knowledge distillation for wearable sensor data, IEEE Internet of Things Journal, 2021 [[pdf](https://ieeexplore.ieee.org/document/9664814)]
    <br> **Eun Som Jeon**, Anirudh Som, Ankita Shukla, Kristina Hasanaj, Matthew P. Buman, Pavan Turaga
-* Human Detection Based on the Generation of a Background Image and Fuzzy System by Using a Thermal Camera, Sensors, 2016
+* Human Detection Based on the Generation of a Background Image and Fuzzy System by Using a Thermal Camera, Sensors, 2016 [[pdf]([https://www.mdpi.com/1424-8220/15/5/10580](https://www.mdpi.com/1424-8220/16/4/453))]
    <br> **Eun Som Jeon**, Jong Hyun Kim, Hyung Gil Hong, Ganbayar Batchuluun, Kang Ryoung Park
-* Robust Pedestrian Detection by Combining Visible and Thermal Infrared Cameras,” Sensors, 2015
+* Robust Pedestrian Detection by Combining Visible and Thermal Infrared Cameras, Sensors, 2015 [[pdf](https://www.mdpi.com/1424-8220/15/5/10580)]
    <br> Ji Hoon Lee, Jong-Suk Choi, **Eun Som Jeon**, Yeong Gon Kim, Toan Thanh Le, Kwang Yong Shin, Hyeon Chang Lee, Kang Ryoung Park
-* Human Detection Based on the Generation of a Background Image by Using a Far-Infrared Light Camera, Sensors, 2015
+* Human Detection Based on the Generation of a Background Image by Using a Far-Infrared Light Camera, Sensors, 2015 [[pdf](https://www.mdpi.com/1424-8220/15/3/6763)]
    <br> **Eun Som Jeon**, Jong-Suk Choi, Ji Hoon Lee, Kwang Yong Shin, Yeong Gon Kim, Toan Thanh Le, Kang Ryoung Park
 
 
@@ -36,7 +36,7 @@ Conference
    <br> **Eun Som Jeon**, Suhas Lohit, Rushil Anirudh, and Pavan Turaga
 * Understanding the Role of Mixup in Knowledge Distillation: An Empirical Study, WACV, 2023 Jan (Hwaii, USA) [[code](https://github.com/hchoi71/MIX-KD)] [[pdf](https://arxiv.org/pdf/2211.03946.pdf)]
    <br> Hongjun Choi, **Eun Som Jeon**, Ankita Shukla, Pavan Turaga 
-* Topological Knowledge Distillation for Wearable Sensor Data, Asilomar Conference, 2022 Oct
+* Topological Knowledge Distillation for Wearable Sensor Data, Asilomar Conference, 2022 Oct [[code](https://github.com/jeunsom/TDA_KD)] [[pdf](https://ieeexplore.ieee.org/document/10052019)]
    <br> **Eun Som Jeon**, Hongjun Choi, Ankita Shukla, Yuan Wang, Matthew P. Buman, and Pavan Turaga
    <br> In Proceedings of the Asilomar Conference on Signals, Systems, and Computers, Pacific Grove, CA, USA
 * Abnormal Event Detection for Intelligent CCTV Services, 2018
