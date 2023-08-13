@@ -35,13 +35,13 @@ Professional Experience
 
 Publications (selected)
 ------
-* Robust Time Series Recovery and Classification Using Test-Time Noise Simulator Networks, ICASSP, 2023 June (Rhodes, Greece)
+* Robust Time Series Recovery and Classification Using Test-Time Noise Simulator Networks, ICASSP, 2023 June (Rhodes, Greece) [code](https://github.com/jeunsom/RobustTS) [pdf](https://ieeexplore.ieee.org/document/10096888)
    <br> **Eun Som Jeon**, Suhas Lohit, Rushil Anirudh, and Pavan Turaga
-* Understanding the Role of Mixup in Knowledge Distillation: An Empirical Study, WACV, 2023, Jan (Hwaii, USA)
+* Understanding the Role of Mixup in Knowledge Distillation: An Empirical Study, WACV, 2023, Jan (Hwaii, USA) [code](https://github.com/hchoi71/MIX-KD) [pdf](https://arxiv.org/pdf/2211.03946.pdf)
    <br> Hongjun Choi, **Eun Som Jeon**, Ankita Shukla, and Pavan Turaga 
-* Leveraging Angular Distributions for Improved Knowledge Distillation, Neurocomputing, 2023
+* Leveraging Angular Distributions for Improved Knowledge Distillation, Neurocomputing, 2023 [code](https://github.com/jeunsom/AMD_loss) [pdf](https://www.sciencedirect.com/science/article/abs/pii/S0925231222014096)
    <br> **Eun Som Jeon**, Hongjun Choi, Ankita Shukla, and Pavan Turaga
-* Role of data augmentation strategies in knowledge distillation for wearable sensor data, IEEE Internet of Things Journal, 2021
+* Role of data augmentation strategies in knowledge distillation for wearable sensor data, IEEE Internet of Things Journal, 2021 [pdf](https://ieeexplore.ieee.org/document/9664814)
    <br> **Eun Som Jeon**, Anirudh Som, Ankita Shukla, Kristina Hasanaj, Matthew P. Buman, and Pavan Turaga
 
 For more info
