@@ -11,7 +11,7 @@ author_profile: true
 SCI(E) Journal
 ------
 * Robustness of Topological Persistence in Knowledge Distillation for Wearable Sensor Data (in submission)
-  <br> <font size="1"> **Eun Som Jeon**, Hongjun Choi, Ankita Shukla, Yuan Wang, Matthew Buman, Hyunglae Lee, Pavan Turaga <font>
+  <br> <font size="1"> **Eun Som Jeon**, Hongjun Choi, Ankita Shukla, Yuan Wang, Matthew Buman, Hyunglae Lee, Pavan Turaga <\font>
 * Topological Persistence Guided Knowledge Distillation for Wearable Sensor Data (in submission)
   <br> **Eun Som Jeon**, Hongjun Choi, Ankita Shukla, Yuan Wang, Hyunglae Lee, Matthew Buman, Pavan Turaga
 * Constrained Adaptive Distillation Based on Topological Persistence for Wearable Sensor Data (in submission)
