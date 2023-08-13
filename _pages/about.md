@@ -22,6 +22,11 @@ Education
   * Thesis: Study on the Approach to Human Detection in Thermal Image
 * **B.S.**  Electronics and Electrical Engineering, Dongguk University, Seoul, Korea
 
+Professional Experience
+------
+* **Ph.D.** Computer Engineering (Electrical Engineering), Arizona State University, Tempe, AZ, USA (January 2020 ~ February 2024 (Expected))
+  * Advisor: Pavan Turaga, Committee: Baoxin Li, Hyunglae Lee, Suren Jayasuriya
+* **M.S.**
 
 Publications (selected)
 ------
