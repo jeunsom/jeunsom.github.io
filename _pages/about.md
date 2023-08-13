@@ -24,19 +24,25 @@ Education
 
 Professional Experience
 ------
-* **Ph.D.** Computer Engineering (Electrical Engineering), Arizona State University, Tempe, AZ, USA (January 2020 ~ February 2024 (Expected))
-  * Advisor: Pavan Turaga, Committee: Baoxin Li, Hyunglae Lee, Suren Jayasuriya
-* **M.S.**
+* SRI International, Princeton, NJ, USA (May 2021 ~ August 2021)
+  * Intern - Center for Vision Technologies, Information & Computing Sciences Division
+  * Researched and developed modules for people detection (body, face, and gesture joint detection), tracking, and action recognition for an education assessment system
+* Korea Telecom, Seoul, Korea (January 2016 ~ January 2020)
+  * Research engineer - Institute of Convergence Technology
+  * Developed a real-time system for people detection and recognition by using a wearable camera with 5G, which was presented in Mobile World Congress 2019 in Barcelona
+  * Developed a real-time people counting and attribute analysis system based on deep learning models for computer and embedded applications
+  * Researched and developed a real-time gesture/motion recognition and matching systems for computer and mobile applications
 
 Publications (selected)
 ------
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
+* Robust Time Series Recovery and Classification Using Test-Time Noise Simulator Networks, ICASSP, 2023 June (Rhodes, Greece)
+  **Eun Som Jeon**, Suhas Lohit, Rushil Anirudh, and Pavan Turaga
+* Understanding the Role of Mixup in Knowledge Distillation: An Empirical Study, WACV, 2023, Jan (Hwaii, USA)
+  Hongjun Choi, **Eun Som Jeon**, Ankita Shukla, and Pavan Turaga 
+* Leveraging Angular Distributions for Improved Knowledge Distillation, Neurocomputing, 2023
+  **Eun Som Jeon**, Hongjun Choi, Ankita Shukla, and Pavan Turaga
+* Role of data augmentation strategies in knowledge distillation for wearable sensor data, IEEE Internet of Things Journal, 2021
+  **Eun Som Jeon**, Anirudh Som, Ankita Shukla, Kristina Hasanaj, Matthew P. Buman, and Pavan Turaga
 
 For more info
 ------
