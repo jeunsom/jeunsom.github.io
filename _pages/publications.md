@@ -15,7 +15,7 @@ SCI(E) Journal
 * Topological Persistence Guided Knowledge Distillation for Wearable Sensor Data (in submission)
   <br> **Eun Som Jeon**, Hongjun Choi, Ankita Shukla, Yuan Wang, Hyunglae Lee, Matthew Buman, Pavan Turaga
 * Constrained Adaptive Distillation Based on Topological Persistence for Wearable Sensor Data (in submission)
-  <br> **Eun Som Jeon**, Hongjun Choi, Ankita Shukla, Yuan Wang, "Matthew P. Buman, "Pavan Turaga
+  <br> **Eun Som Jeon**, Hongjun Choi, Ankita Shukla, Yuan Wang, Matthew P. Buman, Pavan Turaga
 * Leveraging Angular Distributions for Improved Knowledge Distillation, Neurocomputing, 2023 [[code](https://github.com/jeunsom/AMD_loss)] [[pdf](https://www.sciencedirect.com/science/article/abs/pii/S0925231222014096)]
    <br> **Eun Som Jeon**, Hongjun Choi, Ankita Shukla, Pavan Turaga
 * Role of data augmentation strategies in knowledge distillation for wearable sensor data, IEEE Internet of Things Journal, 2021 [[pdf](https://ieeexplore.ieee.org/document/9664814)]
