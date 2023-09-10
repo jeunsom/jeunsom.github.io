@@ -15,7 +15,7 @@ My current research interests include knowledge distillation, multimodal data an
 
 Education
 ------
-* **Ph.D.** Computer Engineering (Electrical Engineering), Arizona State University, Tempe, AZ, USA (January 2020 ~ February 2024 (Expected))
+* **Ph.D.** Computer Engineering (Electrical Engineering), Arizona State University, Tempe, AZ, USA (January 2020 ~ October 2023 (Expected))
   * Advisor: Pavan Turaga, Committee: Baoxin Li, Hyunglae Lee, Suren Jayasuriya
 * **M.S.** Electronics and Electrical Engineering, Dongguk University, Seoul, Korea
   * Advisor: Kang Ryoung Park
