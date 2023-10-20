@@ -25,6 +25,9 @@ Education
 
 Professional Experience
 ------
+* Arizona State University, Tempe AZ, USA (October 2023 ~ present)
+  * Postdoctoral Researcher - Geometric Media Lab (with Prof. Pavan Turaga)
+  * Research and develop modules for human activity recognition and generative AI.
 * SRI International, Princeton, NJ, USA (May 2021 ~ August 2021)
   * Intern - Center for Vision Technologies, Information & Computing Sciences Division
   * Researched and developed modules for people detection (body, face, and gesture joint detection), tracking, and action recognition for an education assessment system
