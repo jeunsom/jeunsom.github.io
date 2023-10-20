@@ -8,14 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am Eunsom Jeon, PhD candidate at ASU. I work as a research assistant at [Geometric Media Lab](https://pavanturaga.com/) advised under Prof. Pavan Turaga.
+I am Eunsom Jeon, Postdoctoral Researcher at ASU. I work at [Geometric Media Lab](https://pavanturaga.com/) advised under Prof. Pavan Turaga.
 Before joining ASU, I worked as a Research Engineer at [Korea Telecom (Institute of Convergence Technology)](https://www.kt.com/), Seoul, Korea.
+I received Ph.D. degree from [Arizona State University](https://www.asu.edu/), Tempe, AZ, USA, under the supervision of Prof. Pavan Turaga.
 I received Bachelor and Master's degree from [Dongguk University](https://www.dongguk.edu/main), Seoul, Korea, and worked as a research assistant with [Digital Media Lab](http://dm.dongguk.edu/) advised by Prof. Kang Ryoung Park.
 My current research interests include knowledge distillation, multimodal data analysis (time-series and image data analysis), human behavior analysis, deep learning, and artificial analysis.
 
 Education
 ------
-* **Ph.D.** Computer Engineering (Electrical Engineering), Arizona State University, Tempe, AZ, USA (January 2020 ~ October 2023 (Expected))
+* **Ph.D.** Computer Engineering (Electrical Engineering), Arizona State University, Tempe, AZ, USA (January 2020 ~ October 2023)
   * Advisor: Pavan Turaga, Committee: Baoxin Li, Hyunglae Lee, Suren Jayasuriya
 * **M.S.** Electronics and Electrical Engineering, Dongguk University, Seoul, Korea
   * Advisor: Kang Ryoung Park
