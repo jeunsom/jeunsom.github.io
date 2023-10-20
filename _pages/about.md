@@ -18,6 +18,7 @@ Education
 ------
 * **Ph.D.** Computer Engineering (Electrical Engineering), Arizona State University, Tempe, AZ, USA (January 2020 ~ October 2023)
   * Advisor: Pavan Turaga, Committee: Baoxin Li, Hyunglae Lee, Suren Jayasuriya
+  * Thesis: Knowledge Distillation with Geometric Approaches for Multimodal Data Analysis
 * **M.S.** Electronics and Electrical Engineering, Dongguk University, Seoul, Korea
   * Advisor: Kang Ryoung Park
   * Thesis: Study on the Approach to Human Detection in Thermal Image
