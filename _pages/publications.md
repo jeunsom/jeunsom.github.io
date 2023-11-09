@@ -10,6 +10,8 @@ author_profile: true
 
 SCI(E) Journal
 ------
+* Intra-class Patch Swap for Self-Distillation (in submission)
+  <br> Hongjun Choi[^1], **Eun Som Jeon[^1]**, Ankita Shukla, Pavan Turaga
 * Robustness of Topological Persistence in Knowledge Distillation for Wearable Sensor Data (in submission)
   <br> **Eun Som Jeon**, Hongjun Choi, Ankita Shukla, Yuan Wang, Matthew Buman, Hyunglae Lee, Pavan Turaga
 * Topological Persistence Guided Knowledge Distillation for Wearable Sensor Data (in submission)
@@ -31,8 +33,6 @@ SCI(E) Journal
 
 Conference
 ------
-* Intra-class Patch Swap for Self-Distillation (in submission)
-  <br> Hongjun Choi, **Eun Som Jeon**, Ankita Shukla, Pavan Turaga
 * Robust Time Series Recovery and Classification Using Test-Time Noise Simulator Networks, ICASSP, 2023 June (Rhodes, Greece) [[code](https://github.com/jeunsom/RobustTS)] [[pdf](https://ieeexplore.ieee.org/document/10096888)]
    <br> **Eun Som Jeon**, Suhas Lohit, Rushil Anirudh, Pavan Turaga
 * Understanding the Role of Mixup in Knowledge Distillation: An Empirical Study, WACV, 2023 Jan (Hwaii, USA) [[code](https://github.com/hchoi71/MIX-KD)] [[pdf](https://arxiv.org/pdf/2211.03946.pdf)]
@@ -55,3 +55,6 @@ Conference
 
   
 You can also find my articles on [google scholar](https://scholar.google.com/citations?hl=en&user=-MWWsMUAAAAJ)
+
+
+[^1]: Equal contribution.
