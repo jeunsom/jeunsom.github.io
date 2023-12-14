@@ -40,6 +40,8 @@ Professional Experience
 
 Publications (selected)
 ------
+* Topological Persistence Guided Knowledge Distillation for Wearable Sensor Data, Engineering Applications of Artificial Intelligence, 2024
+  <br> **Eun Som Jeon**, Hongjun Choi, Ankita Shukla, Yuan Wang, Hyunglae Lee, Matthew P. Buman, Pavan Turaga
 * Constrained Adaptive Distillation Based on Topological Persistence for Wearable Sensor Data, IEEE Transactions on Instrumentation and Measurement, 2023 [[pdf](https://ieeexplore.ieee.org/abstract/document/10308705?casa_token=n255xIac_1cAAAAA:LMIdEQjkKce76Ln4M0icZxPEwcB2Je8hkCKgHab_fV44b0jtKOMI2kv0YLoMq4H0rlVL4zS1Uw)]
    <br> **Eun Som Jeon**, Hongjun Choi, Ankita Shukla, Yuan Wang, Matthew P. Buman, Pavan Turaga
 * Robust Time Series Recovery and Classification Using Test-Time Noise Simulator Networks, ICASSP, 2023 June (Rhodes, Greece) [[code](https://github.com/jeunsom/RobustTS)] [[pdf](https://ieeexplore.ieee.org/document/10096888)]
