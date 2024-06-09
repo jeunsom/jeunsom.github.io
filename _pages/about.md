@@ -40,6 +40,8 @@ Professional Experience
 
 Publications (selected)
 ------
+* Uncertainty-aware Topological Persistence Guided Knowledge Distillation on Wearable Sensor Data, IEEE Internet of Things Journal, 2024 (Accepted)
+  <br> **Eun Som Jeon**, Matthew P. Buman, Pavan Turaga
 * Topological Persistence Guided Knowledge Distillation for Wearable Sensor Data, Engineering Applications of Artificial Intelligence, 2024 [[pdf](https://www.sciencedirect.com/science/article/pii/S0952197623019036)]
   <br> **Eun Som Jeon**, Hongjun Choi, Ankita Shukla, Yuan Wang, Hyunglae Lee, Matthew P. Buman, Pavan Turaga
 * Constrained Adaptive Distillation Based on Topological Persistence for Wearable Sensor Data, IEEE Transactions on Instrumentation and Measurement, 2023 [[pdf](https://ieeexplore.ieee.org/abstract/document/10308705?casa_token=n255xIac_1cAAAAA:LMIdEQjkKce76Ln4M0icZxPEwcB2Je8hkCKgHab_fV44b0jtKOMI2kv0YLoMq4H0rlVL4zS1Uw)]
