@@ -35,6 +35,8 @@ SCI(E) Journal
 
 Conference
 ------
+* Leveraging Topological Guidance for Improved Knowledge Distillation, GRaM workshop on conjunction with the ICML, 2024 July (Vienna, Austria) (Accepted)
+   <br> **Eun Som Jeon**, Rahul Khurana, Aishani Pathak, Pavan Turaga
 * Robust Time Series Recovery and Classification Using Test-Time Noise Simulator Networks, ICASSP, 2023 June (Rhodes, Greece) [[code](https://github.com/jeunsom/RobustTS)] [[pdf](https://ieeexplore.ieee.org/document/10096888)]
    <br> **Eun Som Jeon**, Suhas Lohit, Rushil Anirudh, Pavan Turaga
 * Understanding the Role of Mixup in Knowledge Distillation: An Empirical Study, WACV, 2023 Jan (Hwaii, USA) [[code](https://github.com/hchoi71/MIX-KD)] [[pdf](https://arxiv.org/pdf/2211.03946.pdf)]
