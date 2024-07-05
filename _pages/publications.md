@@ -43,19 +43,19 @@ Conference
    <br> Hongjun Choi, **Eun Som Jeon**, Ankita Shukla, Pavan Turaga 
 * Topological Knowledge Distillation for Wearable Sensor Data, Asilomar Conference, 2022 Oct [[code](https://github.com/jeunsom/TDA_KD)] [[pdf](https://ieeexplore.ieee.org/document/10052019)]
    <br> **Eun Som Jeon**, Hongjun Choi, Ankita Shukla, Yuan Wang, Matthew P. Buman, and Pavan Turaga
-   <br> In Proceedings of the Asilomar Conference on Signals, Systems, and Computers, Pacific Grove, CA, USA
+   <br> Asilomar Conference on Signals, Systems, and Computers, Pacific Grove, CA, USA
 * Abnormal Event Detection for Intelligent CCTV Services, 2018
    <br> Kwang Jung Kim, Jin Wook Park, **Eun Som Jeon**, Jae Chul Kwon
-   <br> In Proceedings of the Conference on Korea Institute of Information and Telecommunication Facilities Engineering, Gangwondo, Korea, August 30-September 1, 2018
+   <br> Korea Institute of Information and Telecommunication Facilities Engineering, Gangwondo, Korea, August 30-September 1, 2018
 * Classification of Moving Vehicles based on Convolutional Neural Network, EEECS, 2017 Jan
    <br> Hosung Park, **Eun Som Jeon**, Minkyu Lim, Donghyun Lee, Unsang Park, Ji-hwan Kim
-   <br> In Proceedings of the International Conference on Electronics, Electrical Engineering, Computer Science (EEECS), Okinawa, Japan, January 9-11, 2017
+   <br> International Conference on Electronics, Electrical Engineering, Computer Science (EEECS), Okinawa, Japan, January 9-11, 2017
 * A Survey on Human Detection Using Thermal Camera, 2015
    <br> **Eun Som Jeon**, Jong-Suk Choi, Ji Hoon Lee, Yeong Gon Kim, Toan Thanh Le, Kwang Yong Shin, Kang Ryoung Park
-   <br> In Proceedings of the Symposium of the Korean Institute of Communications and Information Sciences, Gangwondo, Korea, January 21-23, 2015.
+   <br> Symposium of the Korean Institute of Communications and Information Sciences, Gangwondo, Korea, January 21-23, 2015.
 * A Survey on Object Detection Based on the Combination of Thermal and Visible Light Cameras, 2015
    <br> Ji Hoon Lee, Jong-Suk Choi, **Eun Som Jeon**, Yeong Gon Kim, Toan Thanh Le, Kwang Yong Shin, Hyeon Chang Lee, Kang Ryoung Park
-   <br> In Proceedings of the Symposium of the Korean Institute of Communications and Information Sciences, Gangwondo, Korea, January 21-23, 2015.
+   <br> Symposium of the Korean Institute of Communications and Information Sciences, Gangwondo, Korea, January 21-23, 2015.
 
   
 You can also find my articles on [google scholar](https://scholar.google.com/citations?hl=en&user=-MWWsMUAAAAJ)
