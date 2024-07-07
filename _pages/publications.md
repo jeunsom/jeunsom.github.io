@@ -35,7 +35,7 @@ SCI(E) Journal
 
 Conference
 ------
-* Leveraging Topological Guidance for Improved Knowledge Distillation, ICML 2024 Workshop on GRaM, 2024 July (Vienna, Austria) (Accepted) [[code](https://github.com/jeunsom/TGD)]
+* Leveraging Topological Guidance for Improved Knowledge Distillation, ICML 2024 Workshop on GRaM, 2024 July (Vienna, Austria) [[code](https://github.com/jeunsom/TGD)] [[pdf](https://openreview.net/pdf?id=TB6G5Nj1F4)]
    <br> **Eun Som Jeon**, Rahul Khurana, Aishani Pathak, Pavan Turaga
 * Robust Time Series Recovery and Classification Using Test-Time Noise Simulator Networks, ICASSP, 2023 June (Rhodes, Greece) [[code](https://github.com/jeunsom/RobustTS)] [[pdf](https://ieeexplore.ieee.org/document/10096888)]
    <br> **Eun Som Jeon**, Suhas Lohit, Rushil Anirudh, Pavan Turaga
