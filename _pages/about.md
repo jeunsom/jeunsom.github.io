@@ -19,6 +19,7 @@ My current research interests include knowledge distillation, multimodal data an
 
 * **Note:** I am actively looking for self-motivated graduate and undergraduate students to join my lab!
 
+------
 
 Education
 ------
