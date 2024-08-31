@@ -9,13 +9,12 @@ redirect_from:
 ---
 
 I am Eunsom Jeon, an Assistant Professor at [Seoul National University of Science and Technology (SeoulTech)](https://en.seoultech.ac.kr/). 
-My research focuses on multimodal data analysis, human activity recognition, artificial intelligence, deep learning algorithms, frameworks, and systems.
+My current research interests include knowledge distillation, multimodal data analysis (video, image, and time-series data analysis), human behavior analysis, deep learning, and artificial analysis.
 
 Prior to SeoulTech, I was a Postdoctoral Researcher at ASU and worked at [Geometric Media Lab](https://pavanturaga.com/) with Prof. Pavan Turaga.
 I received Ph.D. degree from [Arizona State University](https://www.asu.edu/), Tempe, AZ, USA, under the supervision of Prof. Pavan Turaga.
 Before joining ASU, I worked as a Research Engineer at [Korea Telecom (Institute of Convergence Technology)](https://www.kt.com/), Seoul, Korea.
 I received Bachelor and Master's degree from [Dongguk University](https://www.dongguk.edu/main), Seoul, Korea, and worked as a research assistant with [Digital Media Lab](http://dm.dongguk.edu/) advised by Prof. Kang Ryoung Park.
-My current research interests include knowledge distillation, multimodal data analysis (time-series and image data analysis), human behavior analysis, deep learning, and artificial analysis.
 
 * **Note:** I am actively looking for self-motivated graduate and undergraduate students to join my lab!
 
