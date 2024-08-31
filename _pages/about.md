@@ -35,8 +35,7 @@ Professional Experience
 ------
 * Seoul National University of Science and Technology, Seoul, Korea (September 2024 ~ present)
   * Assistant Professor, Dept. of Computer Science and Engineering
-  * Research efficient models for human activity recognition.
-  * Research multimodal data analysis (video, image, signal, etc.).
+  * Research efficient models for multimodal data analysis (video, image, signal, etc.), human activity recognition.
   * Research generative AI (Image, T2I, etc.).
 * Arizona State University, Tempe AZ, USA (October 2023 ~ August 2024)
   * Postdoctoral Researcher - Geometric Media Lab (with Prof. Pavan Turaga)
