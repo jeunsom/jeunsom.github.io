@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Eunsom Jeon"
   avatar           : "n_profile.jpg"
-  bio              : "Postdoctoral Researcher @ ASU Geometric Media Lab"
-  location         : "Tempe, AZ"
+  bio              : "Assistant Professor @ SeoulTech"
+  location         : "Seoul, Korea"
   #employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=-MWWsMUAAAAJ"
-  email            : "ejeon6@asu.edu"
+  email            : "ejeon6@seoultech.ac.kr"
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
