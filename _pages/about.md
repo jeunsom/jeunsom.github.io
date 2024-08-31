@@ -8,11 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I am Eunsom Jeon, Postdoctoral Researcher at ASU. I work at [Geometric Media Lab](https://pavanturaga.com/) with Prof. Pavan Turaga.
+I am Eunsom Jeon, an Assistant Professor at [Seoul National University of Science and Technology (SeoulTech)](https://en.seoultech.ac.kr/). 
+My research focuses on multimodal data analysis, human activity recognition, based on artificial intelligence, deep learning algorithms, frameworks, and systems.
+
+Prior to SeoulTech, I was a Postdoctoral Researcher at ASU and worked at [Geometric Media Lab](https://pavanturaga.com/) with Prof. Pavan Turaga.
 I received Ph.D. degree from [Arizona State University](https://www.asu.edu/), Tempe, AZ, USA, under the supervision of Prof. Pavan Turaga.
 Before joining ASU, I worked as a Research Engineer at [Korea Telecom (Institute of Convergence Technology)](https://www.kt.com/), Seoul, Korea.
 I received Bachelor and Master's degree from [Dongguk University](https://www.dongguk.edu/main), Seoul, Korea, and worked as a research assistant with [Digital Media Lab](http://dm.dongguk.edu/) advised by Prof. Kang Ryoung Park.
 My current research interests include knowledge distillation, multimodal data analysis (time-series and image data analysis), human behavior analysis, deep learning, and artificial analysis.
+
+* Note
+I am actively looking for self-motivated graduate and undergraduate students to join my lab!
+
 
 Education
 ------
@@ -26,7 +33,12 @@ Education
 
 Professional Experience
 ------
-* Arizona State University, Tempe AZ, USA (October 2023 ~ present)
+* Seoul National University of Science and Technology, Seoul, Korea (September 2024 ~ present)
+  * Assistant Professor, Dept. of Computer Science and Engineering
+  * Research efficient models for human activity recognition.
+  * Research multimodal data analysis (video, image, signal, etc.).
+  * Research generative AI (Image, T2I, etc.).
+* Arizona State University, Tempe AZ, USA (October 2023 ~ August 2024)
   * Postdoctoral Researcher - Geometric Media Lab (with Prof. Pavan Turaga)
   * Research and develop modules for human activity recognition and generative AI.
 * SRI International, Princeton, NJ, USA (May 2021 ~ August 2021)
@@ -60,4 +72,4 @@ More articles in [Publications](https://jeunsom.github.io/publications/)
 For more info
 ------
 More info about me can be found in [cv](https://jeunsom.github.io/cv/).
-Please email me (ejeon6 at asu dot edu)
+Please email me (ejeon6 at seoultech dot ac dot kr)
