@@ -18,6 +18,7 @@ I received Bachelor and Master's degree from [Dongguk University](https://www.do
 My current research interests include knowledge distillation, multimodal data analysis (time-series and image data analysis), human behavior analysis, deep learning, and artificial analysis.
 
 * Note
+------
 I am actively looking for self-motivated graduate and undergraduate students to join my lab!
 
 
