@@ -17,8 +17,7 @@ Before joining ASU, I worked as a Research Engineer at [Korea Telecom (Institute
 I received Bachelor and Master's degree from [Dongguk University](https://www.dongguk.edu/main), Seoul, Korea, and worked as a research assistant with [Digital Media Lab](http://dm.dongguk.edu/) advised by Prof. Kang Ryoung Park.
 My current research interests include knowledge distillation, multimodal data analysis (time-series and image data analysis), human behavior analysis, deep learning, and artificial analysis.
 
-* Note
-------
+* **Note!** 
 I am actively looking for self-motivated graduate and undergraduate students to join my lab!
 
 
