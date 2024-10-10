@@ -17,7 +17,8 @@ Before joining ASU, I worked as a Research Engineer at [Korea Telecom (Institute
 I received Bachelor and Master's degree from [Dongguk University](https://www.dongguk.edu/main), Seoul, Korea, and worked as a research assistant with [Digital Media Lab](http://dm.dongguk.edu/) advised by Prof. Kang Ryoung Park.
 
 * **Note:** I am actively looking for self-motivated graduate and undergraduate students to join my lab!
-
+  
+* **NEWS:** [Seoultech interview](https://www.seoultech.ac.kr/service/info/news/?do=commonview&searchtext=&searchtype=1&nowpage=1&bnum=3596&bidx=550645&cate=14)
 ------
 
 Education
