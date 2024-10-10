@@ -18,7 +18,7 @@ I received Bachelor and Master's degree from [Dongguk University](https://www.do
 
 * **Note:** I am actively looking for self-motivated graduate and undergraduate students to join my lab!
   
-* **NEWS:** [Seoultech interview](https://www.seoultech.ac.kr/service/info/news/?do=commonview&searchtext=&searchtype=1&nowpage=1&bnum=3596&bidx=550645&cate=14)
+* **NEWS:** [Seoultech Interview](https://www.seoultech.ac.kr/service/info/news/?do=commonview&searchtext=&searchtype=1&nowpage=1&bnum=3596&bidx=550645&cate=14)
 ------
 
 Education
