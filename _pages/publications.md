@@ -35,7 +35,7 @@ SCI(E) Journal
 
 Conference
 ------
-* Debiasing Global Workspace: A Cognitive Neural Framework for Learning Debiased and Interpretable Representations, Neurips 2024 Workshop on UniReps, 2024 December (Vancouver, Canada) (Accepted) [[pdf](https://openreview.net/forum?id=obiwUsWlki#discussion)]
+* Debiasing Global Workspace: A Cognitive Neural Framework for Learning Debiased and Interpretable Representations, Neurips 2024 Workshop on Behavioral ML, 2024 December (Vancouver, Canada) (Accepted) [[pdf](https://openreview.net/forum?id=SoqFoRAofo)]
   <br> Jinyung Hong, **Eun Som Jeon**, Changhoon Kim, Keun Hee Park, Utkarsh Nath, Yezhou Yang, Pavan K. Turaga, Theodore P. Pavlic
 * Leveraging Topological Guidance for Improved Knowledge Distillation, ICML 2024 Workshop on GRaM, 2024 July (Vienna, Austria) [[code](https://github.com/jeunsom/TGD)] [[pdf](https://openreview.net/pdf?id=TB6G5Nj1F4)]
    <br> **Eun Som Jeon**, Rahul Khurana, Aishani Pathak, Pavan Turaga
