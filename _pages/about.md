@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Eunsom Jeon (전은솜), an Assistant Professor at [Seoul National University of Science and Technology (SeoulTech)](https://en.seoultech.ac.kr/). 
+I am Eunsom Jeon (전은솜), an Assistant Professor at [Seoul National University of Science and Technology (SeoulTech)](https://en.seoultech.ac.kr/). I lead [Intelligent Media and Recognition Lab (지능형 미디어 연구실, IMRL)](https://sites.google.com/view/imrlab).
 My current research interests include knowledge distillation, multimodal data analysis (video, image, and time-series data analysis), human behavior analysis, deep learning, and artificial analysis.
 
 Prior to SeoulTech, I was a Postdoctoral Researcher at ASU and worked at [Geometric Media Lab](https://pavanturaga.com/) with Prof. Pavan Turaga.
