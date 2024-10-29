@@ -35,7 +35,9 @@ SCI(E) Journal
 
 Conference
 ------
-* Debiasing Global Workspace: A Cognitive Neural Framework for Learning Debiased and Interpretable Representations, NeurIPS 2024 Workshop on Behavioral ML / UniReps, 2024 December (Vancouver, Canada) (Accepted) [Behavioral ML - [pdf](https://openreview.net/pdf?id=SoqFoRAofo)] [UniReps - [pdf](https://openreview.net/pdf?id=obiwUsWlki)]
+*Deep Geometric Moments Promote Shape Consistency in Text-to-3D Generation, WACV, 2025, Jan (Tucson, AZ, USA) (Accepted)
+  <br> Utkarsh Nath, Rajeev Goel, **Eun Som Jeon**, Changhoon Kim, Kyle Min, Yezhou Yang, Yingzhen Yang, Pavan K. Turaga
+* Debiasing Global Workspace: A Cognitive Neural Framework for Learning Debiased and Interpretable Representations, NeurIPS 2024 Workshop on Behavioral ML / UniReps, 2024, December (Vancouver, Canada) (Accepted) [Behavioral ML - [pdf](https://openreview.net/pdf?id=SoqFoRAofo)] [UniReps - [pdf](https://openreview.net/pdf?id=obiwUsWlki)]
   <br> Jinyung Hong, **Eun Som Jeon**, Changhoon Kim, Keun Hee Park, Utkarsh Nath, Yezhou Yang, Pavan K. Turaga, Theodore P. Pavlic
 * Leveraging Topological Guidance for Improved Knowledge Distillation, ICML 2024 Workshop on GRaM, 2024 July (Vienna, Austria) [[code](https://github.com/jeunsom/TGD)] [[pdf](https://openreview.net/pdf?id=TB6G5Nj1F4)]
    <br> **Eun Som Jeon**, Rahul Khurana, Aishani Pathak, Pavan Turaga
