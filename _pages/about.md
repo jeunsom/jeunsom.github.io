@@ -52,6 +52,8 @@ Professional Experience
 
 Publications (selected)
 ------
+*Deep Geometric Moments Promote Shape Consistency in Text-to-3D Generation, WACV, 2025, Jan (Tucson, AZ, USA) (Accepted)
+  <br> Utkarsh Nath, Rajeev Goel, **Eun Som Jeon**, Changhoon Kim, Kyle Min, Yezhou Yang, Yingzhen Yang, Pavan K. Turaga
 * Uncertainty-aware Topological Persistence Guided Knowledge Distillation on Wearable Sensor Data, IEEE Internet of Things Journal, 2024 [[pdf](https://ieeexplore.ieee.org/document/10554649)]
   <br> **Eun Som Jeon**, Matthew P. Buman, Pavan Turaga
 * Topological Persistence Guided Knowledge Distillation for Wearable Sensor Data, Engineering Applications of Artificial Intelligence, 2024 [[pdf](https://www.sciencedirect.com/science/article/pii/S0952197623019036)]
