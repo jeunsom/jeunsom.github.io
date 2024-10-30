@@ -35,7 +35,7 @@ SCI(E) Journal
 
 Conference
 ------
-*Deep Geometric Moments Promote Shape Consistency in Text-to-3D Generation, WACV, 2025, Jan (Tucson, AZ, USA) (Accepted)
+* Deep Geometric Moments Promote Shape Consistency in Text-to-3D Generation, WACV, 2025, Jan (Tucson, AZ, USA) (Accepted)
   <br> Utkarsh Nath, Rajeev Goel, **Eun Som Jeon**, Changhoon Kim, Kyle Min, Yezhou Yang, Yingzhen Yang, Pavan Turaga
 * Debiasing Global Workspace: A Cognitive Neural Framework for Learning Debiased and Interpretable Representations, NeurIPS 2024 Workshop on Behavioral ML / UniReps, 2024, December (Vancouver, Canada) (Accepted) [Behavioral ML - [pdf](https://openreview.net/pdf?id=SoqFoRAofo)] [UniReps - [pdf](https://openreview.net/pdf?id=obiwUsWlki)]
   <br> Jinyung Hong, **Eun Som Jeon**, Changhoon Kim, Keun Hee Park, Utkarsh Nath, Yezhou Yang, Pavan K. Turaga, Theodore P. Pavlic
