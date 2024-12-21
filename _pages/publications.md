@@ -14,7 +14,7 @@ SCI(E) Journal
   <br> Hongjun Choi[^1], **Eun Som Jeon[^1]**, Ankita Shukla, Pavan Turaga
 * Role of Mixup in Topological Persistence Based Knowledge Distillation for Wearable Sensor Data, IEEE Sensors Journal (Accepted)
   <br> **Eun Som Jeon**, Hongjun Choi, Matthew P. Buman, Pavan Turaga
-* Robustness of Topological Persistence in Knowledge Distillation for Wearable Sensor Data, EPJ Data Science (Accepted)
+* Robustness of Topological Persistence in Knowledge Distillation for Wearable Sensor Data, EPJ Data Science, 2024 [[pdf](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-024-00512-y#Fun)]
   <br> **Eun Som Jeon**, Hongjun Choi, Ankita Shukla, Yuan Wang, Matthew P. Buman, Hyunglae Lee, Pavan Turaga
 * Uncertainty-aware Topological Persistence Guided Knowledge Distillation on Wearable Sensor Data, IEEE Internet of Things Journal, 2024  [[pdf](https://ieeexplore.ieee.org/document/10554649)]
   <br> **Eun Som Jeon**, Matthew P. Buman, Pavan Turaga
