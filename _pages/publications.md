@@ -12,7 +12,7 @@ SCI(E) Journal
 ------
 * Intra-class Patch Swap for Self-Distillation (in submission)
   <br> Hongjun Choi[^1], **Eun Som Jeon[^1]**, Ankita Shukla, Pavan Turaga
-* Role of Mixup in Topological Persistence Based Knowledge Distillation for Wearable Sensor Data, IEEE Sensors Journal (Accepted)
+* Role of Mixup in Topological Persistence Based Knowledge Distillation for Wearable Sensor Data, IEEE Sensors Journal, 2024 [[pdf](https://ieeexplore.ieee.org/document/10811792)]
   <br> **Eun Som Jeon**, Hongjun Choi, Matthew P. Buman, Pavan Turaga
 * Robustness of Topological Persistence in Knowledge Distillation for Wearable Sensor Data, EPJ Data Science, 2024 [[pdf](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-024-00512-y#Fun)]
   <br> **Eun Som Jeon**, Hongjun Choi, Ankita Shukla, Yuan Wang, Matthew P. Buman, Hyunglae Lee, Pavan Turaga
