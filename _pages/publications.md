@@ -43,7 +43,7 @@ Conference
   <br> Jinyung Hong, **Eun Som Jeon**, Changhoon Kim, Keun Hee Park, Utkarsh Nath, Yezhou Yang, Pavan Turaga, Theodore P. Pavlic
 * A Cognitive Framework for Learning Debiased and Interpretable Representations via Debiasing Global Workspace, NeurIPS 2024 Workshop on UniReps, 2024, December (Vancouver, Canada) [[pdf](https://openreview.net/pdf?id=obiwUsWlki)]
   <br> Jinyung Hong, **Eun Som Jeon**, Changhoon Kim, Keun Hee Park, Utkarsh Nath, Yezhou Yang, Pavan Turaga, Theodore P. Pavlic
-* Leveraging Topological Guidance for Improved Knowledge Distillation, ICML 2024 Workshop on GRaM, 2024 July (Vienna, Austria) [[code](https://github.com/jeunsom/TGD)] [[pdf](https://openreview.net/pdf?id=TB6G5Nj1F4)]
+* Leveraging Topological Guidance for Improved Knowledge Distillation, ICML 2024 Workshop on GRaM, 2024 July (Vienna, Austria) [[code](https://github.com/jeunsom/TGD)] [[pdf](https://proceedings.mlr.press/v251/jeon24a.html)]
    <br> **Eun Som Jeon**, Rahul Khurana, Aishani Pathak, Pavan Turaga
 * Robust Time Series Recovery and Classification Using Test-Time Noise Simulator Networks, ICASSP, 2023 June (Rhodes, Greece) [[code](https://github.com/jeunsom/RobustTS)] [[pdf](https://ieeexplore.ieee.org/document/10096888)]
    <br> **Eun Som Jeon**, Suhas Lohit, Rushil Anirudh, Pavan Turaga
