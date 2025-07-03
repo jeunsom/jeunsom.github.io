@@ -11,7 +11,7 @@ author_profile: true
 SCI(E) Journal
 ------
 * Dynamic Class Relation Knowledge Distillation for Semantic Segmentation with the Frontal-viewing Camera of Limited Field of View in an Internet of Things Environment, IEEE Internet of Things Journal, 2025 (Accepted)
-  <br> Seong In Jeong, Min Su Jeong, **Eun Som Jeon**, Kang Ryung Park*
+  <br> Seong In Jeong, Min Su Jeong, **Eun Som Jeon**, Kang Ryung Park
 * Ground Reaction Force Estimation via Time-aware Knowledge Distillation, IEEE Internet of Things Journal, 2025 (Accepted) [[pdf](https://ieeexplore.ieee.org/document/11029050)] [[arxiv](https://arxiv.org/abs/2506.10265)]
   <br> **Eun Som Jeon**, Sinjini Mitra, Jisoo Lee, Omik M. Save, Ankita Shukla, Hyunglae Lee, Pavan Turaga
 * Intra-class Patch Swap for Self-Distillation, Neurocomputing, 2025 [[pdf](https://linkinghub.elsevier.com/retrieve/pii/S092523122501080X)] [[arxiv](https://arxiv.org/abs/2505.14124)]
