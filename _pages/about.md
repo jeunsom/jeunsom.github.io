@@ -73,6 +73,8 @@ Publications (selected)
 * Role of data augmentation strategies in knowledge distillation for wearable sensor data, IEEE Internet of Things Journal, 2021 [[pdf](https://ieeexplore.ieee.org/document/9664814)]
    <br> **Eun Som Jeon**, Anirudh Som, Ankita Shukla, Kristina Hasanaj, Matthew P. Buman, and Pavan Turaga
 
+[^1]: Equal contribution.
+
 More articles in [Publications](https://jeunsom.github.io/publications/)
 
 For more info
