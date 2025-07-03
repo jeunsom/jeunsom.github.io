@@ -52,6 +52,10 @@ Professional Experience
 
 Publications (selected)
 ------
+* Ground Reaction Force Estimation via Time-aware Knowledge Distillation, IEEE Internet of Things Journal, 2025 (Accepted) [[pdf](https://ieeexplore.ieee.org/document/11029050)] [[arxiv](https://arxiv.org/abs/2506.10265)]
+  <br> **Eun Som Jeon**, Sinjini Mitra, Jisoo Lee, Omik M. Save, Ankita Shukla, Hyunglae Lee, Pavan Turaga
+* Intra-class Patch Swap for Self-Distillation, Neurocomputing, 2025 [[pdf](https://linkinghub.elsevier.com/retrieve/pii/S092523122501080X)] [[arxiv](https://arxiv.org/abs/2505.14124)]
+  <br> Hongjun Choi[^1], **Eun Som Jeon[^1]**, Ankita Shukla, Pavan Turaga
 * Deep Geometric Moments Promote Shape Consistency in Text-to-3D Generation, WACV, 2025, Feb (Tucson, AZ, USA) [[pdf](https://openaccess.thecvf.com/content/WACV2025/papers/Nath_Deep_Geometric_Moments_Promote_Shape_Consistency_in_Text-to-3D_Generation_WACV_2025_paper.pdf)] [[project](https://moment-3d.github.io/)]
   <br> Utkarsh Nath, Rajeev Goel, **Eun Som Jeon**, Changhoon Kim, Kyle Min, Yezhou Yang, Yingzhen Yang, Pavan Turaga
 * Uncertainty-aware Topological Persistence Guided Knowledge Distillation on Wearable Sensor Data, IEEE Internet of Things Journal, 2024 [[pdf](https://ieeexplore.ieee.org/document/10554649)]
